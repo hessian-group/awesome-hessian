@@ -15,9 +15,9 @@ code list :
 
 ## Php
 
-https://sourceforge.net/projects/hessianphp/ - A PHP implementation of Hessian is available under the GPL at Sourceforge by Manolo Gomez.
+* https://sourceforge.net/projects/hessianphp/ - A PHP implementation of Hessian is available under the GPL at Sourceforge by Manolo Gomez.
 ## Python
-https://github.com/bgilmore/mustaine  - Hessian RPC library for Python http://pypi.python.org/pypi/mustaine
+* https://github.com/bgilmore/mustaine  - Hessian RPC library for Python http://pypi.python.org/pypi/mustaine
 ## C++
 * https://sourceforge.net/projects/hessiancpp/ - Aldratech's C++ implementation of Hessian is available at Sourceforge.
 
