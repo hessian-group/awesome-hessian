@@ -1,11 +1,7 @@
 # awesome-hessian
 Hessian is a serialization component , the official website is : http://hessian.caucho.com/
-It seems that the codes hosted in several websits and the version of code is so old
 
-We can host the codes here and maintain continuously
-
-the code is listd :
-
+code list :
 ## Java
 * https://github.com/ebourg/hessian - A Github mirror of the official Subversion repository
 * https://github.com/apache/dubbo-hessian-lite - An Apache Dubbo embed version of [official hessian](https://github.com/ebourg/hessian) 
@@ -29,3 +25,7 @@ the code is listd :
 
 ## Objective C
 
+# Some suggestions
+1，It seems that the codes hosted in several websites and the version of code is so old We can host the codes here and maintain continuously
+2，Collect all repos about hessian and find the best code of every language
+3，Some code has been found to have multiple versions, maintained independently, somewhat fragmented, considered merging, and developed together.
