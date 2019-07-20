@@ -26,6 +26,6 @@ code list :
 ## Objective C
 
 # Some suggestions
-1，It seems that the codes hosted in several websites and the version of code is so old We can host the codes here and maintain continuously
-2，Collect all repos about hessian and find the best code of every language
-3，Some code has been found to have multiple versions, maintained independently, somewhat fragmented, considered merging, and developed together.
+* 1，It seems that the codes hosted in several websites and the version of code is so old We can host the codes here and maintain continuously
+* 2，Collect all repos about hessian and find the best code of every language
+* 3，Some code has been found to have multiple versions, maintained independently, somewhat fragmented, considered merging, and developed together.
