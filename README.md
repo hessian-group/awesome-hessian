@@ -9,6 +9,7 @@ code list :
 
 ## Go
 * https://github.com/dubbogo/hessian2 - Caucho hessian2 implementation in Go for [apache/dubbo-go](github.com/apache/dubbo-go) which is compatible with [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite)
+* https://github.com/dubbogo/hessian1.2 -  
 
 ## Js
 * https://github.com/node-modules/hessian.js - Js hessian binary web service protocol, support communicate with java
@@ -34,8 +35,8 @@ code list :
 
 ## Objective C
 
-- [The Cocoa Cayenne](http://cwiki.apache.org/CAY/cocoa-cayenne.html) - project contains an Objective C implementation of Hessian
-- [HessianKit](http://sourceforge.net/projects/hessiankit)  -is an Objective C implementation of Hessian that targets Mac OS X 10.5 and the iPhone
+- http://cwiki.apache.org/CAY/cocoa-cayenne.html -  The Cocoa Cayenne project contains an Objective C implementation of Hessian
+- http://sourceforge.net/projects/hessiankit  - HessianKit is an Objective C implementation of Hessian that targets Mac OS X 10.5 and the iPhone
 
 
 # Some suggestions
