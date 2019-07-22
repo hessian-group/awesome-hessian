@@ -9,7 +9,7 @@ code list :
 
 ## Go
 * https://github.com/dubbogo/hessian2 - Caucho hessian2 implementation in Go for [apache/dubbo-go](github.com/apache/dubbo-go) which is compatible with [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite)
-* https://github.com/dubbogo/hessian1.2 -  [Caucho hessian2 implementation](http://hessian.caucho.com/doc/hessian-1.0-spec.xtp)
+* https://github.com/dubbogo/hessian1.2 -  [Caucho hessian1.0.2 implementation](http://hessian.caucho.com/doc/hessian-1.0-spec.xtp)
 
 ## Js
 * https://github.com/node-modules/hessian.js - Js hessian binary web service protocol, support communicate with java
