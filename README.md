@@ -8,7 +8,7 @@ code list :
 * https://github.com/sofastack/sofa-hessian - An internal improved version of Hessian powered by Ant Financial
 
 ## Go
-* https://github.com/dubbogo/hessian2 - Caucho hessian2 implementation in Go for [apache/dubbo-go](github.com/apache/dubbo-go) which is compatible with [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite)
+* https://github.com/apache/dubbo-go-hessian2 - Caucho hessian2 implementation in Go for [apache/dubbo-go](github.com/apache/dubbo-go) which is compatible with [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite)
 * https://github.com/dubbogo/hessian1.2 -  [Caucho hessian1.0.2 implementation](http://hessian.caucho.com/doc/hessian-1.0-spec.xtp)
 
 ## Js
