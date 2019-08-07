@@ -46,4 +46,4 @@ code list :
 * **4，** Establish a community of Hessian to unite all the developers and users of hessian. Including the original author, each language client author
 
 
-[《How about building a more open Hessian community? 》](https://groups.google.com/forum/#!topic/caucho-resin/-bE3dOiitao) , is initiated by @wongoo and @lovepoem
+[《How about building a more open Hessian community? 》](https://groups.google.com/forum/#!topic/caucho-resin/-bE3dOiitao) , is initiated by [@wongoo](https://github.com/wongoo) and [@lovepoem](https://github.com/lovepoem)
