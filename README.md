@@ -1,6 +1,15 @@
 # awesome-hessian
 Hessian is a serialization component , the official website is : http://hessian.caucho.com/
 
+# Some suggestions
+* **1，** It seems that the codes hosted in several websites (sourceforge and googlecode) , and the version of code is too old .  We can host the codes here and maintain continuously
+* **2，** Collect all repos about hessian and find the best code of every language
+* **3，** Some code has been found to have multiple versions, maintained independently, somewhat fragmented, considered merging, and developed together.
+* **4，** Establish a community of Hessian to unite all the developers and users of hessian. Including the original author, each language client author
+
+
+[《How about building a more open Hessian community? 》](https://groups.google.com/forum/#!topic/caucho-resin/-bE3dOiitao) , is initiated by [@wongoo](https://github.com/wongoo) and [@lovepoem](https://github.com/lovepoem)
+
 code list :
 ## Java
 * https://github.com/ebourg/hessian - A Github mirror of the official Subversion repository
@@ -39,11 +48,4 @@ code list :
 - http://sourceforge.net/projects/hessiankit  - HessianKit is an Objective C implementation of Hessian that targets Mac OS X 10.5 and the iPhone
 
 
-# Some suggestions
-* **1，** It seems that the codes hosted in several websites (sourceforge and googlecode) , and the version of code is too old .  We can host the codes here and maintain continuously
-* **2，** Collect all repos about hessian and find the best code of every language
-* **3，** Some code has been found to have multiple versions, maintained independently, somewhat fragmented, considered merging, and developed together.
-* **4，** Establish a community of Hessian to unite all the developers and users of hessian. Including the original author, each language client author
 
-
-[《How about building a more open Hessian community? 》](https://groups.google.com/forum/#!topic/caucho-resin/-bE3dOiitao) , is initiated by [@wongoo](https://github.com/wongoo) and [@lovepoem](https://github.com/lovepoem)
