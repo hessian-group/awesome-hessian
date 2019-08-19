@@ -26,6 +26,7 @@ Hessian is a serialization component , the official website is : http://hessian.
 ## Php
 
 * https://sourceforge.net/projects/hessianphp/ - A PHP implementation of Hessian is available under the GPL at Sourceforge by Manolo Gomez.
+* https://github.com/crazyxman/hessian-parser - A PHP implementation of Hessian
 ## Python
 * https://github.com/bgilmore/mustaine  - Hessian RPC library for Python http://pypi.python.org/pypi/mustaine
 ## C++
