@@ -13,6 +13,7 @@ Hessian is a serialization component , the official website is : http://hessian.
 # code list :
 ## Java
 * https://github.com/ebourg/hessian - A Github mirror of the official Subversion repository
+* https://github.com/pnavato/hessian-jakarta - Hessian for Jakarta EE 10
 * https://github.com/apache/dubbo-hessian-lite - An Apache Dubbo embed version of [official hessian](https://github.com/ebourg/hessian) 
 * https://github.com/sofastack/sofa-hessian - An internal improved version of Hessian powered by Ant Financial
 
